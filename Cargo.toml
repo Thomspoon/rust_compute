@@ -1,0 +1,11 @@
+[package]
+name = "compute_demo"
+version = "0.1.0"
+authors = ["= <=>"]
+
+[dependencies]
+sdl2 = "0.30"
+gl = "0.10.0"
+
+[build-dependencies]
+gl_generator = "0.9.0"
